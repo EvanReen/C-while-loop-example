@@ -1,0 +1,15 @@
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\bin\Debug\net6.0\WhileLoopExample.exe
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\bin\Debug\net6.0\WhileLoopExample.deps.json
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\bin\Debug\net6.0\WhileLoopExample.runtimeconfig.json
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\bin\Debug\net6.0\WhileLoopExample.dll
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\bin\Debug\net6.0\WhileLoopExample.pdb
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\WhileLoopExample.csproj.AssemblyReference.cache
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\WhileLoopExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\WhileLoopExample.AssemblyInfoInputs.cache
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\WhileLoopExample.AssemblyInfo.cs
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\WhileLoopExample.csproj.CoreCompileInputs.cache
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\WhileLoopExample.dll
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\refint\WhileLoopExample.dll
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\WhileLoopExample.pdb
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\WhileLoopExample.genruntimeconfig.cache
+C:\Users\evan.reen\source\repos\WhileLoopExample\WhileLoopExample\obj\Debug\net6.0\ref\WhileLoopExample.dll
